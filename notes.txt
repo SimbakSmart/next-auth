@@ -1,0 +1,7 @@
+npm create-next-app@latest
+
+
+ npm i next-auth 
+ npm i mongoose 
+
+ npm i bcryptjs
